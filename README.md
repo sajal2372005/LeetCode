@@ -12,4 +12,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sajal2372005/LeetCode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
+## String
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
+## Simulation
+|  |
+| ------- |
+| [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
 <!---LeetCode Topics End-->
