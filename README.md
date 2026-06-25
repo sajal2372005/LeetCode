@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/sajal2372005/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sajal2372005/LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3912-valid-elements-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/3912-valid-elements-in-an-array) |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/sajal2372005/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/sajal2372005/LeetCode/tree/master/0178-rank-scores) |
+## Greedy
+|  |
+| ------- |
+| [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/sajal2372005/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
