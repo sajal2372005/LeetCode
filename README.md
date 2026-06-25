@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/sajal2372005/LeetCode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/sajal2372005/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/sajal2372005/LeetCode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/sajal2372005/LeetCode/tree/master/0185-department-top-three-salaries) |
 ## Greedy
 |  |
 | ------- |
