@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sajal2372005/LeetCode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sajal2372005/LeetCode/tree/master/0231-power-of-two) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sajal2372005/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sajal2372005/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -94,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/sajal2372005/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sajal2372005/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/sajal2372005/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
