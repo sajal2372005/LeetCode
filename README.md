@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/sajal2372005/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sajal2372005/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sajal2372005/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/sajal2372005/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sajal2372005/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sajal2372005/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sajal2372005/LeetCode/tree/master/0383-ransom-note) |
+| [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/sajal2372005/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sajal2372005/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sajal2372005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sajal2372005/LeetCode/tree/master/0242-valid-anagram) |
+| [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 <!---LeetCode Topics End-->
