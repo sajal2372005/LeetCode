@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sajal2372005/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 | [0989-add-to-array-form-of-integer](https://github.com/sajal2372005/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sajal2372005/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sajal2372005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sajal2372005/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/sajal2372005/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/sajal2372005/LeetCode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/sajal2372005/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -206,4 +208,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/sajal2372005/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
