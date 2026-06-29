@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/sajal2372005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sajal2372005/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/sajal2372005/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sajal2372005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/sajal2372005/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 | [2540-minimum-common-value](https://github.com/sajal2372005/LeetCode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sajal2372005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/sajal2372005/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sajal2372005/LeetCode/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sajal2372005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |
