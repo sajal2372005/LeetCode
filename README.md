@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/sajal2372005/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/sajal2372005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/sajal2372005/LeetCode/tree/master/1518-water-bottles) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/sajal2372005/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sajal2372005/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sajal2372005/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sajal2372005/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/sajal2372005/LeetCode/tree/master/0055-jump-game) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/sajal2372005/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/sajal2372005/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
 |  |
