@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/sajal2372005/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sajal2372005/LeetCode/tree/master/0383-ransom-note) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sajal2372005/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sajal2372005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sajal2372005/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/sajal2372005/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/sajal2372005/LeetCode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/sajal2372005/LeetCode/tree/master/0509-fibonacci-number) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sajal2372005/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Memoization
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sajal2372005/LeetCode/tree/master/0242-valid-anagram) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
+## Sliding Window
+|  |
+| ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sajal2372005/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 <!---LeetCode Topics End-->
