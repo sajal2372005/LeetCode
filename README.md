@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sajal2372005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/sajal2372005/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 | [0989-add-to-array-form-of-integer](https://github.com/sajal2372005/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sajal2372005/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sajal2372005/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sajal2372005/LeetCode/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/sajal2372005/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sajal2372005/LeetCode/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sajal2372005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sajal2372005/LeetCode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Sliding Window
