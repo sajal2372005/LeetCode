@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sajal2372005/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/sajal2372005/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sajal2372005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sajal2372005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sajal2372005/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/sajal2372005/LeetCode/tree/master/3488-closest-equal-element-queries) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/sajal2372005/LeetCode/tree/master/1518-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sajal2372005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/sajal2372005/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sajal2372005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Graph Theory
 |  |
@@ -230,4 +232,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sajal2372005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/sajal2372005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
