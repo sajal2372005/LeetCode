@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/sajal2372005/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sajal2372005/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sajal2372005/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/sajal2372005/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/sajal2372005/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Simulation
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sajal2372005/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sajal2372005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sajal2372005/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3612-process-string-with-special-operations-i](https://github.com/sajal2372005/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/sajal2372005/LeetCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/sajal2372005/LeetCode/tree/master/3894-traffic-signal-color) |
 ## Graph Theory
