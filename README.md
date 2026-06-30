@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/sajal2372005/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/sajal2372005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajal2372005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/sajal2372005/LeetCode/tree/master/2540-minimum-common-value) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sajal2372005/LeetCode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/sajal2372005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sajal2372005/LeetCode/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/sajal2372005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajal2372005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sajal2372005/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sajal2372005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/sajal2372005/LeetCode/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/sajal2372005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/sajal2372005/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sajal2372005/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
