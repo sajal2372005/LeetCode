@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sajal2372005/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/sajal2372005/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/sajal2372005/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sajal2372005/LeetCode/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sajal2372005/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sajal2372005/LeetCode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/sajal2372005/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sajal2372005/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
