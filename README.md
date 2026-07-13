@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sajal2372005/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/sajal2372005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/sajal2372005/LeetCode/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sajal2372005/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/sajal2372005/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sajal2372005/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sajal2372005/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sajal2372005/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/sajal2372005/LeetCode/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/sajal2372005/LeetCode/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sajal2372005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sajal2372005/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sajal2372005/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
