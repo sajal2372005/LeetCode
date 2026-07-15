@@ -3,7 +3,6 @@ class Solution:
         left_arr = []
         right_arr = []
         for i in range(len(nums)):
-            noti = ~i
             total = 0
             rev_total = 0
             for j in range(i+1,len(nums)):
