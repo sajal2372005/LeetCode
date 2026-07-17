@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/sajal2372005/LeetCode/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sajal2372005/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sajal2372005/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sajal2372005/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sajal2372005/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sajal2372005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/sajal2372005/LeetCode/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/sajal2372005/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sajal2372005/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sajal2372005/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/sajal2372005/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sajal2372005/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sajal2372005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/sajal2372005/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
