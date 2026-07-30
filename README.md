@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sajal2372005/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sajal2372005/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/sajal2372005/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sajal2372005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sajal2372005/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sajal2372005/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sajal2372005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sajal2372005/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2716-minimize-string-length](https://github.com/sajal2372005/LeetCode/tree/master/2716-minimize-string-length) |
 | [2833-furthest-point-from-origin](https://github.com/sajal2372005/LeetCode/tree/master/2833-furthest-point-from-origin) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sajal2372005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sajal2372005/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sajal2372005/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sajal2372005/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sajal2372005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sajal2372005/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sajal2372005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sajal2372005/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sajal2372005/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/sajal2372005/LeetCode/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Bit Manipulation
