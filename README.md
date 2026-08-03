@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/sajal2372005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajal2372005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sajal2372005/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sajal2372005/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/sajal2372005/LeetCode/tree/master/2540-minimum-common-value) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sajal2372005/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sajal2372005/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sajal2372005/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1805-number-of-different-integers-in-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sajal2372005/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sajal2372005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
