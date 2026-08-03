@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sajal2372005/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/sajal2372005/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sajal2372005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sajal2372005/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2073-time-needed-to-buy-tickets](https://github.com/sajal2372005/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sajal2372005/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sajal2372005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajal2372005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sajal2372005/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sajal2372005/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2540-minimum-common-value](https://github.com/sajal2372005/LeetCode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sajal2372005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/sajal2372005/LeetCode/tree/master/2716-minimize-string-length) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sajal2372005/LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/sajal2372005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sajal2372005/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/sajal2372005/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2833-furthest-point-from-origin](https://github.com/sajal2372005/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sajal2372005/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
