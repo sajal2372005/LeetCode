@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sajal2372005/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3488-closest-equal-element-queries](https://github.com/sajal2372005/LeetCode/tree/master/3488-closest-equal-element-queries) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sajal2372005/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sajal2372005/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sajal2372005/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sajal2372005/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sajal2372005/LeetCode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sajal2372005/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sajal2372005/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sajal2372005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sajal2372005/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
