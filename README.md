@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sajal2372005/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sajal2372005/LeetCode/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/sajal2372005/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/sajal2372005/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sajal2372005/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sajal2372005/LeetCode/tree/master/1419-minimum-number-of-frogs-croaking) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sajal2372005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/sajal2372005/LeetCode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/sajal2372005/LeetCode/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sajal2372005/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sajal2372005/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sajal2372005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sajal2372005/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
