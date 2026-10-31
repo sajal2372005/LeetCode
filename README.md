@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/sajal2372005/LeetCode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sajal2372005/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sajal2372005/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/sajal2372005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sajal2372005/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sajal2372005/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sajal2372005/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/sajal2372005/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sajal2372005/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3536-maximum-product-of-two-digits](https://github.com/sajal2372005/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/sajal2372005/LeetCode/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/sajal2372005/LeetCode/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Sliding Window
