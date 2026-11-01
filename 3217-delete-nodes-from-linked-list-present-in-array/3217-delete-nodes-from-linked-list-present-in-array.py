@@ -20,6 +20,3 @@ class Solution:
                     start = start.next
                 current = current.next
         return final.next
-
-
-        
