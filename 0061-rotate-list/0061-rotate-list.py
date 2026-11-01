@@ -4,7 +4,7 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+    def rotateRight(self, head: ListNode | None, k: int) -> ListNode | None:
         k = k%(2*10**9 -2)
         for i in range(k):
             if head == None:
@@ -19,4 +19,3 @@ class Solution:
             temp.next = head
             head = temp
         return head
-        
