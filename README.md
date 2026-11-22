@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sajal2372005/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sajal2372005/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sajal2372005/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sajal2372005/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sajal2372005/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2315-count-asterisks](https://github.com/sajal2372005/LeetCode/tree/master/2315-count-asterisks) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sajal2372005/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
