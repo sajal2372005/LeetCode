@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/sajal2372005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sajal2372005/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sajal2372005/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sajal2372005/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/sajal2372005/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/sajal2372005/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sajal2372005/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sajal2372005/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sajal2372005/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sajal2372005/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Tree
