@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sajal2372005/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/sajal2372005/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sajal2372005/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1672-richest-customer-wealth](https://github.com/sajal2372005/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/sajal2372005/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/sajal2372005/LeetCode/tree/master/1732-find-the-highest-altitude) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sajal2372005/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sajal2372005/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sajal2372005/LeetCode/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sajal2372005/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/sajal2372005/LeetCode/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/sajal2372005/LeetCode/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sajal2372005/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sajal2372005/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/sajal2372005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sajal2372005/LeetCode/tree/master/2615-sum-of-distances) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sajal2372005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/sajal2372005/LeetCode/tree/master/0788-rotated-digits) |
 | [1137-n-th-tribonacci-number](https://github.com/sajal2372005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sajal2372005/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sajal2372005/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sajal2372005/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
