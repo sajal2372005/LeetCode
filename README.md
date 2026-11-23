@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sajal2372005/LeetCode/tree/master/0739-daily-temperatures) |
 | [0989-add-to-array-form-of-integer](https://github.com/sajal2372005/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1046-last-stone-weight](https://github.com/sajal2372005/LeetCode/tree/master/1046-last-stone-weight) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sajal2372005/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/sajal2372005/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/sajal2372005/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/sajal2372005/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sajal2372005/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sajal2372005/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sajal2372005/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1518-water-bottles](https://github.com/sajal2372005/LeetCode/tree/master/1518-water-bottles) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sajal2372005/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sajal2372005/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sajal2372005/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sajal2372005/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sajal2372005/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/sajal2372005/LeetCode/tree/master/2574-left-and-right-sum-differences) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sajal2372005/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/sajal2372005/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/sajal2372005/LeetCode/tree/master/0641-design-circular-deque) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sajal2372005/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## String Matching
 |  |
 | ------- |
@@ -515,4 +519,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sajal2372005/LeetCode/tree/master/0075-sort-colors) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sajal2372005/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
