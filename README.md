@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sajal2372005/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sajal2372005/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sajal2372005/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/sajal2372005/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sajal2372005/LeetCode/tree/master/0125-valid-palindrome) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/sajal2372005/LeetCode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/sajal2372005/LeetCode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/sajal2372005/LeetCode/tree/master/0788-rotated-digits) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sajal2372005/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/sajal2372005/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sajal2372005/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
